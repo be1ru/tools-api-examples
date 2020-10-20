@@ -1,6 +1,6 @@
 let Be1ToolsApi = require("./Be1ToolsApi.js");
 
-let Be1 = new Be1ToolsApi("YOUR_AP_KEY");
+let Be1 = new Be1ToolsApi("YOUR_API_KEY");
 
 let tool = "cms";
 
